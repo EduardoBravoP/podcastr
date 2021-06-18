@@ -1,5 +1,5 @@
-<div style="display: flex; flex-direction: column; align-items: center">
-  <img src="./public/logo.svg" alt="podcastr">
+<div style="display: flex; flex-direction: column;">
+  <img align="center" src="./public/logo.svg" alt="podcastr">
   <h1 align="center">The best podcasts for you</h1>
   <hr />
 </div>
