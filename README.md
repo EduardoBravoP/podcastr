@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column;">
+<div align="center">
   <img align="center" src="./public/logo.svg" alt="podcastr">
   <h1 align="center">The best podcasts for you</h1>
   <hr />
